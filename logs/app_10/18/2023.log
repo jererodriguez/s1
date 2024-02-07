@@ -1,0 +1,1 @@
+[2023-10-18 00:18:02] slim-app.ERROR: Error number [42S22] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'username' in 'where clause' on line 153 in file C:\xampp\htdocs\s1\src\Clases\Stock\Usuarios.php [] {"uid":"a9ccfca"}

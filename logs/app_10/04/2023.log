@@ -1,0 +1,2 @@
+[2023-10-04 12:40:13] slim-app.ERROR: Error number [42S02] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_comodin.log_movstock' doesn't exist on line 49 in file C:\xampp\htdocs\s1\src\logica\stock\datatables.php [] {"uid":"c06e997"}
+[2023-10-04 12:42:06] slim-app.ERROR: Error number [42S02] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stock_comodin.log_movstock' doesn't exist on line 49 in file C:\xampp\htdocs\s1\src\logica\stock\datatables.php [] {"uid":"fcc4676"}

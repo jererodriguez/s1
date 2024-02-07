@@ -1,0 +1,2 @@
+[2023-09-09 19:05:51] slim-app.ERROR: Error number [1045] SQLSTATE[HY000] [1045] Access denied for user 'stock'@'localhost' (using password: YES) on line 59 in file C:\xampp\htdocs\s1\src\dependencies.php [] {"uid":"bb05916"}
+[2023-09-09 19:18:23] slim-app.ERROR: Error number [42S02] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dev_stock.stock_productos' doesn't exist on line 29 in file C:\xampp\htdocs\s1\src\Clases\Stock\Productos.php [] {"uid":"b40687d"}

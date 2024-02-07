@@ -1,0 +1,1 @@
+[2023-10-13 00:50:44] slim-app.ERROR: Error number [0] Attempt to assign property "permisos" on bool on line 86 in file C:\xampp\htdocs\s1\src\Clases\Stock\Usuarios.php [] {"uid":"f027288"}

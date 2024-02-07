@@ -1,0 +1,1 @@
+[2023-11-28 14:25:54] slim-app.ERROR: Error number [2002] SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión on line 59 in file C:\xampp\htdocs\s1\src\dependencies.php [] {"uid":"44a7169"}
