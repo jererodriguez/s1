@@ -1,9 +1,9 @@
 <?php
 date_default_timezone_set('America/Asuncion');
 // BASES DE DATOS -------------------
-	define("DB_USER", "root");
-	define("DB_PSW", "");
-    define("DB_BASE", "valeriaystock");
+define("DB_USER", "quattropy_valeriaystock");
+define("DB_PSW", "Paraguay22.");
+define("DB_BASE", "quattropy_valeriaystock");
     define("DB_CON", "");
 	define('ESTADO_SERVIDOR', '1');   
 	define('MENSAJE_SERVIDOR', 'En mantenimiento. Intentelo en unos minutos.');
